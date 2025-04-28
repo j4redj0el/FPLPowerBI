@@ -1,4 +1,4 @@
-# Using PowerBI to make Fantasy Premier League (FPL Decisions) 
+# Using PowerBI to make Fantasy Premier League (FPL) Decisions 
 
 ## Introduction 
 Fantasy Premier League is an online game in which players collect points based on how real-life footballers perform each week. Simply put: you choose a virtual team of Premier League footballers, and if their real-life counterparts do well, you get points. 
