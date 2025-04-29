@@ -14,7 +14,7 @@ This project uses Power BI to help FPL managers (players) select the best player
 
 PL managers often face challenges when choosing between players. The dashboard below features a player comparison table that allows users to compare two players based on real-season statistics, FPL metrics, and expected statistics (xG and xA etc). Users can search for specific players to assess and compare them side by side.
 
-!(https://github.com/j4redj0el/FPLPowerBI/blob/main/Player_comparison_tableFPL.jpg)
+![cover](https://github.com/j4redj0el/FPLPowerBI/blob/main/Player_comparison_tableFPL.jpg)
 
 
 
