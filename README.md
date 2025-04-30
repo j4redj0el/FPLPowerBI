@@ -16,6 +16,10 @@ PL managers often face challenges when choosing between players. The dashboard b
 
 ![cover](https://github.com/j4redj0el/FPLPowerBI/blob/main/Player_comparison_tableFPL.jpg)
 
+### Player Identifer 
 
+This dashboard helps players to identify players by ranking, based on specfic statistics (Expected Goals, Expected Assists, Form etc). Each row represents a different position. This allows managers (players) to identify different players for selection based on their own personal game strategy strategy. 
 
+![cover](https://github.com/j4redj0el/FPLPowerBI/blob/main/FPLPlayer_identifier.jpg)
 
+### Value-for-Money 
