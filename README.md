@@ -23,3 +23,11 @@ This dashboard helps players to identify players by ranking, based on specfic st
 ![cover](https://github.com/j4redj0el/FPLPowerBI/blob/main/FPLPlayer_identifier.jpg)
 
 ### Value-for-Money 
+
+This dashboard shows the Value for Money (VFM) of players, which is calculated by dividing the total points earned by a player's price (in £m). The larger bubbles in the scatter plot represent players who provide the best value for money, meaning they have a high number of points for a relatively low price. The plot compares Total Points (on the y-axis) and Price (£m) (on the x-axis), with the size of the bubbles reflecting the Value for Money score, so players with higher VFM appear larger and easier to spot. This allows managers (players) to optimise their selections, identifying players that give the best Return on Investment. This is key, as saving funds allows room to invest in higher-quality squad players.
+
+The dashboard allows the user to filter based on position and team and the output will show the best 'Value for Money' Player based on their selection. 
+
+For example, the image below shows the Most 'Value-for-money' forward from within Arsenal, Chelsea, Liverpool, Man City and Spurs. This just not mean the player produces the most points, but rather a good return on investment given the player's Price amount. 
+
+![cover](https://github.com/j4redj0el/FPLPowerBI/blob/main/FPLValue_for_money.jpg)
