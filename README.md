@@ -28,6 +28,6 @@ This dashboard shows the Value for Money (VFM) of players, which is calculated b
 
 The dashboard allows the user to filter based on position and team and the output will show the best 'Value for Money' Player based on their selection. 
 
-For example, the image below shows the Most 'Value-for-money' forward from within Arsenal, Chelsea, Liverpool, Man City and Spurs. This just not mean the player produces the most points, but rather a good return on investment given the player's Price amount. 
+For example, the image below shows the Most 'Value-for-money' forward from within Arsenal, Chelsea, Liverpool, Man City and Spurs. This does not mean the player produces the most points, but rather a good return on investment given the player's Price amount. 
 
 ![cover](https://github.com/j4redj0el/FPLPowerBI/blob/main/FPLValue_for_money.jpg)
